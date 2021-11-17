@@ -59,6 +59,4 @@ int main(void) {
 
 	printf("%.2f", s.top());
 
-
-
 }

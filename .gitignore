@@ -364,3 +364,7 @@ FodyWeavers.xsd
 
 /.vs
 .vs/
+/Debug
+.vcxproj
+.vcxproj.filters
+.vcxproj.user
