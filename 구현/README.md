@@ -4,7 +4,7 @@
 ---|---|---|---|---
 21608 | [상어 초등학교](https://www.acmicpc.net/problem/21608) | 실버1
 21611 | 마법사 상어와 블리자드 | 골드1
-2753 | [윤년](https://www.acmicpc.net/problem/2753) | 브론즈4 
+2753 | [윤년](https://www.acmicpc.net/problem/2753) | 브론즈4 | [바로가기](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/2753.cpp) | [블로그 링크](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-2753.-%EC%9C%A4%EB%85%84)
 1212 | 8진수 2진수 | 브론즈3
 20053 | 최소, 최대 2 | 브론즈3
 5597 | 과제 안 내신 분..? | 브론즈2
