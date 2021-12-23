@@ -20,5 +20,5 @@
 21275 | 폰 호석만 | 실버3 |
 21919 | 소수 최소 공배수 | 실버3 |
 22943 | 수 | 실버1 |
-1790 | 수 이어 쓰기2 | 실버1 | [바로가기](https://github.com/ap3334/baekjoon/blob/main/%EC%88%98%ED%95%99/1790.cpp)
+1790 | [수 이어 쓰기2](https://www.acmicpc.net/problem/1790) | 실버1 | [바로가기](https://github.com/ap3334/baekjoon/blob/main/%EC%88%98%ED%95%99/1790.cpp)
 1747 | 소수&팰린드롬 | 골드5 |
