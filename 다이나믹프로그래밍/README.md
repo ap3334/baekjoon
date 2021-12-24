@@ -8,7 +8,7 @@
 1010 | 다리 놓기 | 실버5 | [바로가기](https://github.com/ap3334/baekjoon/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1010.cpp)
 9655 | 돌 게임 | 실버5 |
 17626 | Four Squares | 실버4 |
-2670 | [연속부분최대곱](https://www.acmicpc.net/problem/2670) | 실버4 |
+2670 | [연속부분최대곱](https://www.acmicpc.net/problem/2670) | 실버4 | [바로가기]() | [바로가기](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-2670.-%EC%97%B0%EC%86%8D%EB%B6%80%EB%B6%84%EC%B5%9C%EB%8C%80%EA%B3%B1)
 1463 | 1로 만들기 | 실버3 |
 9095 | 1, 2, 3 더하기 | 실버3 |
 11726 | 2xn 타일링 | 실버3 |
