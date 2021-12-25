@@ -24,7 +24,7 @@
 22858 | 원상 복구 (small) | 실버3
 16926 | 배열 돌리기 1 | 실버2
 15787 | 기차가 어둠을 헤치고 은하수를 | 실버2
-2564 | [경비원](https://www.acmicpc.net/problem/2564) | 실버1 | [바로가기](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/2564.cpp) | [블로그 링크]()
+2564 | [경비원](https://www.acmicpc.net/problem/2564) | 실버1 | [바로가기](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/2564.cpp) | [블로그 링크](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-2564.-%EA%B2%BD%EB%B9%84%EC%9B%90)
 17276 | 배열 돌리기 | 실버1
 20207 | 달력 | 실버1
 20164 | 홀수 홀릭 호석 | 골드5
