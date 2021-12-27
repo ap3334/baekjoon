@@ -1,7 +1,6 @@
-# baekjoon
-**Baekjoon Algorithm Solving Repository**
+# ✨Baekjoon✨
 
----
+**Baekjoon Algorithm Solving Repository✍**
 
 알고리즘 별 문제
 문제 유형 | 바로가기
