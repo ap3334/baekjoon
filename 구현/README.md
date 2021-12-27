@@ -10,7 +10,7 @@
 5597 | 과제 안 내신 분..? | 브론즈2
 21918 | 전구 | 브론즈2 |
 20546 | 기적의 매매법 | 브론즈1
-12871 | 무한 문자열 | 실버5 | [바로가기](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/12871.cpp) | [블로그 링크](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-12871.-%EB%AC%B4%ED%95%9C-%EB%AC%B8%EC%9E%90%EC%97%B4)
+12871 | [무한 문자열](https://www.acmicpc.net/problem/12871) | 실버5 | [바로가기](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/12871.cpp) | [블로그 링크](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-12871.-%EB%AC%B4%ED%95%9C-%EB%AC%B8%EC%9E%90%EC%97%B4)
 1913 | 달팽이 | 실버5
 14467 | 소가 길을 건너간 이유1 | 실버5
 2578 | 빙고 | 실버5
