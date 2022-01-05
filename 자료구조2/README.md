@@ -2,15 +2,15 @@
 
 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 알고리즘 정리 링크
 ---|---|---|---|---
-1620 | 나는야 포켓몬 마스터 이다솜 | 실버4️⃣ | 
-1269 | [대칭 차집합](https://www.acmicpc.net/problem/1269) | 실버3️⃣ | [코드](https://github.com/ap3334/baekjoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B02/1269.cpp) | [블로그](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-1269.-%EB%8C%80%EC%B9%AD-%EC%B0%A8%EC%A7%91%ED%95%A9)
-14425 | 문자열 집합 | 실버3️⃣ |
-11279 | 최대 힙 | 실버2️⃣ |
-11286 | 절댓값 힙 | 실버1️⃣ |
-4358 | 생태학 | 실버1️⃣ |
-7662 | 이중 우선순위 큐 | 골드5️⃣ |
-2075 | N번째 큰 수 | 골드5️⃣ |
-21939 | 문제 추천 시스템 Version 1 | 골드4️⃣ |
-21944 | 문제 추천 시스템 Version 2 | 골드3️⃣ |
-2696 | 중앙값 구하기 | 골드2️⃣ |
-21942 | 부품 대여장 | 골드2️⃣ |
+1620 | 나는야 포켓몬 마스터 이다솜 |<img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | 
+1269 | [대칭 차집합](https://www.acmicpc.net/problem/1269) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B02/1269.cpp) | [블로그](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-1269.-%EB%8C%80%EC%B9%AD-%EC%B0%A8%EC%A7%91%ED%95%A9)
+14425 | 문자열 집합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+11279 | 최대 힙 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+11286 | 절댓값 힙 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+4358 | 생태학 |<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+7662 | 이중 우선순위 큐 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+2075 | N번째 큰 수 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> |
+21939 | 문제 추천 시스템 Version 1 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+21944 | 문제 추천 시스템 Version 2 |<img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+2696 | 중앙값 구하기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
+21942 | 부품 대여장 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
