@@ -10,8 +10,8 @@
 2609 | 최대공약수와 최소공배수 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
 1934 | 최소공배수 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 
 2581 | 소수 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
-11653 | 소인수분해 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
 1978 | 소수 찾기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
+11653 | 소인수분해 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 2960 | 에라토스테네스의 체 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 5347 | LCM | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 4134 | 다음 소수 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
