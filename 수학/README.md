@@ -2,7 +2,7 @@
 
 문제 번호 | 문제 이름 | 난이도 | 소스코드 링크 | 알고리즘 정리 링크 |
 ---|---|---|---|---|
-5618 | [공약수](https://www.acmicpc.net/problem/5618) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | 
+5618 | [공약수](https://www.acmicpc.net/problem/5618) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EC%88%98%ED%95%99/5618.cpp)
 22864 | 피로도 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> |
 2745 | 진법 변환 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> |
 1110 | 더하기 사이클 |<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |
