@@ -1,6 +1,6 @@
 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 알고리즘 정리 링크
 ---|---|---|---|---
-11725 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+11725 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%ED%8A%B8%EB%A6%AC/11725.cpp)
 1991 | 트리 순회 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 9934 | 완전 이진 트리 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 5639 | 이진 검색 트리 |<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
