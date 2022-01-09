@@ -1,4 +1,4 @@
-# 다이나믹프로그래밍1
+# 다이나믹프로그래밍
 
 문제 번호 | 문제 이름 | 난이도 | 코드 링크 | 알고리즘 정리 링크
 :---:|:---:|:---:|:---:|:---:|
@@ -30,3 +30,31 @@
 11660 | 구간 합 구하기 5 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 21317 | 징검다리 건너기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 22869 | 징검다리 건너기 (small) |<img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+15724 | 주지수 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+9084 | 동전 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 
+12865 | 평범한 배낭 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 
+9251 | LCS | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 
+2225 | 합분해 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 
+5557 | 1학년 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 
+2631 | 줄세우기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 
+2624 | 동전 바꿔주기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 
+2228 | 구간 나누기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 
+14567 | 선수과목 (Prerequisite) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 
+17485 | 진우의 달 여행 (Large) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 
+2073 | 수도배관공사 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 
+18427 | 함께 블록 쌓기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> | 
+1915 | 가장 큰 정사각형 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+2758 | 로또 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+1520 | 내리막 길 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+2056 | 작업 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+1695 | 팰린드롬 만들기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+20542 | 받아쓰기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+21923 | 곡예 비행 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+1005 | ACM Craft | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+11049 | 행렬 곱셈 순서| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+1823 | 수확| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+10942 | 팰린드롬?| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
+2629 | 양팔저울| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
+20181 | 꿈틀꿈틀 호석 애벌레 - 효율성| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
+3687 | 성냥개비| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
+21942 | 부품 대여장| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/14.svg"/> |
