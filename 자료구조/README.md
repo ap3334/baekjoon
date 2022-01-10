@@ -1,7 +1,7 @@
 # 자료구조 (큐, 스택, 덱)
 
 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 알고리즘 정리 링크
----|---|---|---|---
+:---:|:---:|:---:|:---:|:---:
 1158 | 요세푸스 문제 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
 10828 | 스택 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 9012 | 괄호 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
