@@ -6,7 +6,7 @@
 21611 | 마법사 상어와 블리자드 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> |
 2753 | [윤년](https://www.acmicpc.net/problem/2753) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/2753.cpp) | [블로그](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-2753.-%EC%9C%A4%EB%85%84)
 1212 | [8진수 2진수](https://www.acmicpc.net/problem/1212) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/1212.cpp)
-20053 | [최소, 최대 2](https://www.acmicpc.net/problem/20053) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> |
+20053 | [최소, 최대 2](https://www.acmicpc.net/problem/20053) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/20053.cpp) |
 5597 | 과제 안 내신 분..? | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> |
 21918 | 전구 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> |
 20546 | 기적의 매매법 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |
