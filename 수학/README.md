@@ -3,9 +3,9 @@
 문제 번호 | 문제 이름 | 난이도 | 소스코드 링크 | 알고리즘 정리 링크 |
 :---:|:---:|:---:|:---:|:---:|
 5618 | [공약수](https://www.acmicpc.net/problem/5618) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EC%88%98%ED%95%99/5618.cpp) | [블로그]()
-22864 | 피로도 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> |
-2745 | 진법 변환 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> |
-1110 | 더하기 사이클 |<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |
+22864 | [피로도](https://www.acmicpc.net/problem/22864) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EC%88%98%ED%95%99/22864.cpp)
+2745 | [진법 변환](https://www.acmicpc.net/problem/2745) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> |
+1110 | [더하기 사이클](https://www.acmicpc.net/problem/1110) |<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |
 1312 | [소수](https://www.acmicpc.net/problem/1312) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EC%88%98%ED%95%99/1312.cpp) | [블로그](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-1132.-%EC%86%8C%EC%88%98)
 2609 | 최대공약수와 최소공배수 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
 1934 | 최소공배수 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 
