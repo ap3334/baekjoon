@@ -3,11 +3,11 @@
 문제 번호 | 문제 이름 | 난이도 | 소스 코드 링크 | 알고리즘 정리 링크
 :---:|:---:|:---:|:---:|:---:
 21608 | [상어 초등학교](https://www.acmicpc.net/problem/21608) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-21611 | 마법사 상어와 블리자드 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> |
+21611 | [마법사 상어와 블리자드](https://www.acmicpc.net/problem/21611) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/15.svg"/> |
 2753 | [윤년](https://www.acmicpc.net/problem/2753) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/2.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/2753.cpp) | [블로그](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-2753.-%EC%9C%A4%EB%85%84)
 1212 | [8진수 2진수](https://www.acmicpc.net/problem/1212) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/1212.cpp)
 20053 | [최소, 최대 2](https://www.acmicpc.net/problem/20053) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/20053.cpp) | [블로그](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-20053.-%EC%B5%9C%EC%86%8C-%EC%B5%9C%EB%8C%802)
-5597 | 과제 안 내신 분..? | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> |
+5597 | [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/5597.cpp)
 21918 | 전구 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> |
 20546 | 기적의 매매법 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |
 12871 | [무한 문자열](https://www.acmicpc.net/problem/12871) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/12871.cpp) | [블로그](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-12871.-%EB%AC%B4%ED%95%9C-%EB%AC%B8%EC%9E%90%EC%97%B4)
