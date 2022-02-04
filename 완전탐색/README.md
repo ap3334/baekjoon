@@ -9,7 +9,7 @@
 1969 | [DNA](https://www.acmicpc.net/problem/1969) | 실버5 | [바로가기](https://github.com/ap3334/baekjoon/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/1969.cpp) | [블로그 링크](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-1969.-DNA)
 2322 | [한윤정이 이탈리아에 가서 아이스크림을 사먹는데](https://www.acmicpc.net/problem/2422) | 실버5 |
 5568 | [카드 놓기](https://www.acmicpc.net/problem/5568) | 실버5 | [바로가기](https://github.com/ap3334/baekjoon/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/5568.cpp) | [블로그 링크](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-5568.-%EC%B9%B4%EB%93%9C-%EB%86%93%EA%B8%B0)
-18511 | 큰 수 구성하기 | 실버5 |
+18511 | [큰 수 구성하기](https://www.acmicpc.net/problem/18511) | 실버5 |
 2503 | 숫자 야구 | 실버4 |
 17626 | Four Squares | 실버4 |
 9079 | 동전 게임 | 실버4 |
