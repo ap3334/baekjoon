@@ -9,7 +9,7 @@
 11725 | [트리의 부모 찾기](https://www.acmicpc.net/problem/11725) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |[코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/11725.cpp) | [블로그](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-11725.-%ED%8A%B8%EB%A6%AC%EC%9D%98-%EB%B6%80%EB%AA%A8-%EC%B0%BE%EA%B8%B0)
 1325 | [효율적인 해킹](https://www.acmicpc.net/problem/1325) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/1325.cpp) |
 11403 | [경로 찾기](https://www.acmicpc.net/problem/11403) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B7%B8%EB%9E%98%ED%94%84%20%ED%83%90%EC%83%89/11403.cpp) | [블로그](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-11403.-%EA%B2%BD%EB%A1%9C-%EC%B0%BE%EA%B8%B0)
-2178 | 미로 탐색 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 
+2178 | [미로 탐색](https://www.acmicpc.net/problem/2178) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 
 2667 | 단지번호붙이기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 
 7576 | 토마토 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | 
 7569 | 토마토 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/>
