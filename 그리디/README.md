@@ -6,7 +6,7 @@
 1343 | [폴리오미노](https://www.acmicpc.net/problem/1343) |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/1343.cpp)| [블로그](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-1343.-%ED%8F%B4%EB%A6%AC%EC%98%A4%EB%AF%B8%EB%85%B8)
 2865 | [나는 위대한 슈퍼스타K](https://www.acmicpc.net/problem/2865) |  <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/2865.cpp) | [블로그](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-2865.-%EB%82%98%EB%8A%94-%EC%9C%84%EB%8C%80%ED%95%9C-%EC%8A%88%ED%8D%BC%EC%8A%A4%ED%83%80K)
 2217 | [로프](https://www.acmicpc.net/problem/2217) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/2217.cpp)
-13305 | 주유소 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
+13305 | [주유소](https://www.acmicpc.net/problem/13305) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/13305.cpp)
 1758 | 알바생 강호 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 11508 | 2 + 1 세일 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 11399 | ATM | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
