@@ -9,7 +9,7 @@
 20053 | [최소, 최대 2](https://www.acmicpc.net/problem/20053) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/20053.cpp) | [블로그](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-20053.-%EC%B5%9C%EC%86%8C-%EC%B5%9C%EB%8C%802)
 5597 | [과제 안 내신 분..?](https://www.acmicpc.net/problem/5597) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/5597.cpp)
 21918 | [전구](https://www.acmicpc.net/problem/21918) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> |
-20546 | 기적의 매매법 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |
+20546 | [기적의 매매법](https://www.acmicpc.net/problem/20546) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/20546.cpp)
 12871 | [무한 문자열](https://www.acmicpc.net/problem/12871) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/12871.cpp) | [블로그](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-12871.-%EB%AC%B4%ED%95%9C-%EB%AC%B8%EC%9E%90%EC%97%B4)
 1913 | [달팽이](https://www.acmicpc.net/problem/1913) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
 14467 | [소가 길을 건너간 이유1](https://www.acmicpc.net/problem/14467) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/14467.cpp)
