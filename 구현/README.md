@@ -13,7 +13,7 @@
 12871 | [무한 문자열](https://www.acmicpc.net/problem/12871) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/12871.cpp) | [블로그](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-12871.-%EB%AC%B4%ED%95%9C-%EB%AC%B8%EC%9E%90%EC%97%B4)
 1913 | [달팽이](https://www.acmicpc.net/problem/1913) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
 14467 | [소가 길을 건너간 이유1](https://www.acmicpc.net/problem/14467) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/14467.cpp)
-2578 | 빙고 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
+2578 | [빙고](https://www.acmicpc.net/problem/2578) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/2578.cpp)
 4396 | 지뢰 찾기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
 12933 | 오리 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 1244 | 스위치 켜고 끄기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
