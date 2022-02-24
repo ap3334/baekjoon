@@ -10,7 +10,7 @@
 1758 | [알바생 강호](https://www.acmicpc.net/problem/1758) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/1758.cpp)
 11508 | 2 + 1 세일 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 11047 | [동전 0](https://www.acmicpc.net/problem/11047) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/11047.cpp)
-11399 | ATM | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+11399 | [ATM](https://www.acmicpc.net/problem/11399) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/11399.cpp)
 20115 | 에너지 드링크 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 20300 | 서강근육맨 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 1931 | [회의실 배정](https://www.acmicpc.net/problem/1931) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/1931.cpp)
