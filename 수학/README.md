@@ -12,7 +12,7 @@
 2581 | 소수 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
 1978 | 소수 찾기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 11653 | 소인수분해 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
-2960 | 에라토스테네스의 체 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
+2960 | [에라토스테네스의 체](https://www.acmicpc.net/problem/2960) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |[코드](https://github.com/ap3334/baekjoon/blob/main/%EC%88%98%ED%95%99/2960.cpp)
 5347 | LCM | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 4134 | 다음 소수 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 21920 | 서로소 평균 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
