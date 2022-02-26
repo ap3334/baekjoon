@@ -8,7 +8,7 @@
 1110 | [더하기 사이클](https://www.acmicpc.net/problem/1110) |<img height="25px" width="25px" src="https://static.solved.ac/tier_small/5.svg"/> |
 1312 | [소수](https://www.acmicpc.net/problem/1312) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EC%88%98%ED%95%99/1312.cpp) | [블로그](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-1132.-%EC%86%8C%EC%88%98)
 2609 | [최대공약수와 최소공배수](https://www.acmicpc.net/problem/2609) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EC%88%98%ED%95%99/2609.cpp)
-1934 | 최소공배수 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | 
+1934 | [최소공배수](https://www.acmicpc.net/problem/1934) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EC%88%98%ED%95%99/1934.cpp)
 2581 | 소수 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
 1978 | 소수 찾기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 11653 | 소인수분해 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
