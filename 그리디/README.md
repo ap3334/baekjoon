@@ -14,7 +14,7 @@
 20115 | 에너지 드링크 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 20300 | 서강근육맨 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 1931 | [회의실 배정](https://www.acmicpc.net/problem/1931) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/1931.cpp)
-1541 | 잃어버린 괄호 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+1541 | [잃어버린 괄호](https://www.acmicpc.net/problem/1541) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |[코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B7%B8%EB%A6%AC%EB%94%94/1541.cpp)
 20365 | 블로그2 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
 11047 | 동전 0 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
 21314 | 민겸 수 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
