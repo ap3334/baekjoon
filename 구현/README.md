@@ -19,6 +19,7 @@
 1244 | 스위치 켜고 끄기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 10994 | 별 찍기 - 19 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 20436 | ZOAC 3 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
+2108 | [통계학](https://www.acmicpc.net/problem/2108) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/2108.cpp)
 20291 | 파일 정리 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 17413 | 단어 뒤집기 2 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 2615 | 오목 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
