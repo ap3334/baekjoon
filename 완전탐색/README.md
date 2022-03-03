@@ -4,6 +4,7 @@
 ---|---|---|---|---
 22864 | [피로도](https://www.acmicpc.net/problem/22864) | 브론즈3 | [바로가기](https://github.com/ap3334/baekjoon/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/22864.cpp) | [블로그 링크](https://velog.io/@ap3334/C-22864.-%ED%94%BC%EB%A1%9C%EB%8F%84)
 19532 | [수학은 비대면강의입니다](https://www.acmicpc.net/problem/19532) | 브론즈2 | [바로가기](https://github.com/ap3334/baekjoon/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/19532.cpp) | [블로그 링크](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-19532%EB%B2%88-%EC%88%98%ED%95%99%EC%9D%80-%EB%B9%84%EB%8C%80%EB%A9%B4%EA%B0%95%EC%9D%98%EC%9E%85%EB%8B%88%EB%8B%A4)
+2231 | [분해합](https://www.acmicpc.net/problem/2231) | 브론즈2 | [바로가기](https://github.com/ap3334/baekjoon/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/2231.cpp)
 18312 | [시각](https://www.acmicpc.net/problem/18312) | 브론즈2 | [바로가기](https://github.com/ap3334/baekjoon/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/18312.cpp) | [블로그 링크](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-18312.-%EC%8B%9C%EA%B0%81)
 15721 | [번데기](https://www.acmicpc.net/problem/15721) | 브론즈1 | [바로가기](https://github.com/ap3334/baekjoon/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/15721.cpp) | [블로그 링크](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-15721.-%EB%B2%88%EB%8D%B0%EA%B8%B0)
 1969 | [DNA](https://www.acmicpc.net/problem/1969) | 실버5 | [바로가기](https://github.com/ap3334/baekjoon/blob/main/%EC%99%84%EC%A0%84%ED%83%90%EC%83%89/1969.cpp) | [블로그 링크](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-1969.-DNA)
