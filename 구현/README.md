@@ -24,6 +24,7 @@
 17413 | 단어 뒤집기 2 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 2615 | 오목 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 22858 | 원상 복구 (small) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
+18870 | [좌표 압축](https://www.acmicpc.net/problem/18870) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/18870.cpp)
 16926 | 배열 돌리기 1 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
 15787 | 기차가 어둠을 헤치고 은하수를 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
 2564 | [경비원](https://www.acmicpc.net/problem/2564) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EA%B5%AC%ED%98%84/2564.cpp) | [블로그](https://velog.io/@ap3334/%EB%B0%B1%EC%A4%80-C-2564.-%EA%B2%BD%EB%B9%84%EC%9B%90)
