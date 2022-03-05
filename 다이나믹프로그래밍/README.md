@@ -30,7 +30,7 @@
 1149 | [RGB거리](https://www.acmicpc.net/problem/1149) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1149.cpp)
 9465 | 스티커 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 15468 | 퇴사 2 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
-2156 | 포도주 시식 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
+2156 | [포도주 시식](https://www.acmicpc.net/problem/2156) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2156.cpp)
 10844 | 쉬운 계단 수 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 2293 | 동전 1 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
 2294 | 동전 2 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/10.svg"/> |
