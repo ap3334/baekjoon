@@ -41,7 +41,7 @@
 2565 | [전깃줄](https://www.acmicpc.net/problem/2565) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/2565.cpp)
 9084 | 동전 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 
 12865 | 평범한 배낭 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 
-9251 | LCS | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 
+9251 | [LCS](https://www.acmicpc.net/problem/9251) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/9251.cpp)
 2225 | 합분해 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 
 5557 | 1학년 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 
 2631 | 줄세우기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/11.svg"/> | 
