@@ -22,7 +22,7 @@
 22857 | 가장 긴 짝수 연속한 부분 수열 (small) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 9184 | [신나는 함수 실행](https://www.acmicpc.net/problem/9184) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/9184.cpp)
 11053 | 가장 긴 증가하는 부분 수열 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
-1912 | 연속합 |<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
+1912 | [연속합](https://www.acmicpc.net/problem/1912) |<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |[코드](https://github.com/ap3334/baekjoon/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/1912.cpp)
 11055 | 가장 큰 증가 부분 수열 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
 1890 | 점프 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
 1106 | 호텔 |<img height="25px" width="25px" src="https://static.solved.ac/tier_small/9.svg"/> |
