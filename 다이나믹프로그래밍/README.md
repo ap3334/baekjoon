@@ -57,6 +57,7 @@
 1695 | 팰린드롬 만들기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 20542 | 받아쓰기 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
 21923 | 곡예 비행 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/12.svg"/> |
+11054 | [가장 긴 바이토닉 부분 수열](https://www.acmicpc.net/problem/11054) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |  [코드](https://github.com/ap3334/baekjoon/blob/main/%EB%8B%A4%EC%9D%B4%EB%82%98%EB%AF%B9%ED%94%84%EB%A1%9C%EA%B7%B8%EB%9E%98%EB%B0%8D/11054.cpp)
 1005 | ACM Craft | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 11049 | 행렬 곱셈 순서| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
 1823 | 수확| <img height="25px" width="25px" src="https://static.solved.ac/tier_small/13.svg"/> |
