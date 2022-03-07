@@ -3,7 +3,7 @@
 문제 번호 | 문제 이름 | 난이도 | 풀이 링크 | 알고리즘 정리 링크
 :---:|:---:|:---:|:---:|:---:
 1158 | 요세푸스 문제 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/6.svg"/> |
-10773 | 제로 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  [코드](https://github.com/ap3334/baekjoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/10773.cpp)
+10773 | [제로](https://www.acmicpc.net/problem/10773) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |  [코드](https://github.com/ap3334/baekjoon/blob/main/%EC%9E%90%EB%A3%8C%EA%B5%AC%EC%A1%B0/10773.cpp)
 10828 | 스택 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 9012 | 괄호 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 18258 | 큐2 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
