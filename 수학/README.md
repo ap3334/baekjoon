@@ -2,6 +2,7 @@
 
 문제 번호 | 문제 이름 | 난이도 | 소스코드 링크 | 알고리즘 정리 링크 |
 :---:|:---:|:---:|:---:|:---:|
+5086 | [배수와 약수](https://www.acmicpc.net/problem/5086) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EC%88%98%ED%95%99/5086.cpp)
 5618 | [공약수](https://www.acmicpc.net/problem/5618) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EC%88%98%ED%95%99/5618.cpp) | [블로그]()
 22864 | [피로도](https://www.acmicpc.net/problem/22864) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/3.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EC%88%98%ED%95%99/22864.cpp)
 2745 | [진법 변환](https://www.acmicpc.net/problem/2745) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/4.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EC%88%98%ED%95%99/2745.cpp)
