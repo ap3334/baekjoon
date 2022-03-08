@@ -17,6 +17,7 @@
 5347 | LCM | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 4134 | 다음 소수 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
 21920 | 서로소 평균 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/7.svg"/> |
+3036 | [링](https://www.acmicpc.net/problem/3036) | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> | [코드](https://github.com/ap3334/baekjoon/blob/main/%EC%88%98%ED%95%99/3036.cpp)
 9613 | GCD 합 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 21275 | 폰 호석만 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
 21919 | 소수 최소 공배수 | <img height="25px" width="25px" src="https://static.solved.ac/tier_small/8.svg"/> |
